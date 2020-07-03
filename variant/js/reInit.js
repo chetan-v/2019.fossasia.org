@@ -29,7 +29,7 @@ function reInit(target){
 
     $(target+' .mobile-menu-toggle').click(function() {
         $(target+' nav').toggleClass('open-menu');
-    });
+    });    
 
     // Sidebar menu toggle
 
